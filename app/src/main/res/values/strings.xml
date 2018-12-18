@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Socket测试</string>
+    <string name="title_server">服务器设置</string>
+    <string name="title_client">客户端设置</string>
+</resources>
